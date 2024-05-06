@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8FLLN74BK8.com.crpo.app.aviakassa",
+        "paths": [
+          "/account/register/confirm"
+        ]
+      }
+    ]
+  }
+}
